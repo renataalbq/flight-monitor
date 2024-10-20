@@ -20,7 +20,7 @@ FlightMonitor é um app desenvolvido em swift para acompanhar o status de voos. 
 1. **Clone o repositório**:
 
    ```bash
-   git clone https://github.com/renataalbq/flight-monito.git
+   git clone https://github.com/renataalbq/flight-monitor.git
 
 
 2. **Abra o projeto no Xcode**:
